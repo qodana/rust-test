@@ -1,0 +1,9 @@
+version: "1.0"
+profile:
+  name: Default
+
+include:
+  - name: RsRedundantReturn
+  - name: RsSimplifyPrint
+  - name: RsNeedlessFormat
+  - name: RsNeedlessBorrow
